@@ -59,5 +59,5 @@ and geographic factors. This enables better insights into road safety trends.
 
 <p>
 View Dashboard Screenshot: 
-<a href="" target="_blank">Click Here</a>
+<a href="Road Accident DashBoard.png" target="_blank">Click Here</a>
 </p>
