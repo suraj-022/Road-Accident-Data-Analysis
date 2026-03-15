@@ -55,12 +55,7 @@ The final dashboard provides a clear and interactive view of accident patterns,
 helping users understand casualty distribution by vehicle type, road conditions, 
 and geographic factors. This enables better insights into road safety trends.
 </p>
-<h2>📷 Dashboard Preview</h2>
 
-<p>
-View Dashboard Screenshot: 
-<a href="Road Accident DashBoard.png" target="_blank">Click Here</a>
-</p
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
